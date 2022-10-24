@@ -1,0 +1,23 @@
+.hi{
+
+    color:rgb(102, 13, 102);
+    margin-left: 50px;
+    font-size:large;
+}
+.web{
+    width: 400px;
+    height: 200px;
+    top: 30%;
+    margin: -25px 0 0 350px;
+    background-color: rgb(163, 160, 155);
+    border-style:double;
+    margin-bottom: 85px;
+    position: absolute;
+    bottom: 0px;
+    letter-spacing: 3px;
+}
+div input[type=number]{
+    margin: 8px;
+    padding: 8 px;
+    
+}
